@@ -8,14 +8,18 @@ Languages: C++, Python, JavaScript
 Frameworks & Libraries: React, Node.js, Express.js, Flutter
 Databases: MongoDB, PostgreSQL
 Tools & Technologies: MERN Stack, Git, RESTful APIs, TypeScript
+
+
 🌟 What I’ve Worked On:
 Developed projects like a Contact Management System, Basic Banking Website, and a Donation Website
 Interned in web development and design, gaining real-world experience with frontend technologies and creating responsive, user-friendly interfaces
 Currently exploring backend development and building efficient, scalable APIs
+
 🎯 Highlights:
 Solved over 200 problems on Leetcode
-Achieved a top 3000 rank in Codevita Season 11 (2024)
+Achieved a top 2000 rank in Codevita Season 11 (2024)
 Certified in MERN Stack Development, Data Structures & Algorithms in C++, and Python Programming
+
 💡 What Drives Me:
 I love learning new technologies and improving my skills, whether by tackling challenges in data structures, designing robust backend systems, or building mobile applications with Flutter. My goal is to create meaningful, high-quality software that makes a difference.
 
