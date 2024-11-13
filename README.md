@@ -1,6 +1,26 @@
 # 💫 About Me:
-As a B.Tech. student in Information Technology at Maharaja Agrasen Institute of Technology, I am passionate about the transformative power of technology and its ability to shape the future. I have developed my skills in MERN Stack Web Development through coursework and hands-on experiences, such as working as a web developer at The Sparks Foundation, where I created and designed dynamic web pages and applications for social causes. I also completed a two-month internship at Bharat Intern, where I contributed to the development and testing of web solutions for various clients.<br><br>My goal is to make a positive impact in the IT realm by applying my knowledge and skills in real-world scenarios. I am eager to learn from tech enthusiasts, professionals, and mentors, and to explore opportunities and collaborations in the ever-evolving IT landscape. I am open to connect with you and share my insights and ideas on web development and related topics.
+👋 Hello! I'm Rishabh Raj
 
+I'm a dedicated Software Developer with a passion for building impactful projects and solving complex problems. Completely my  B.Tech in Information Technology at Maharaja Agrasen Institute of Technology, I have hands-on experience with web development and a growing skill set in backend development.
+
+🚀 Technical Skills:
+Languages: C++, Python, JavaScript
+Frameworks & Libraries: React, Node.js, Express.js, Flutter
+Databases: MongoDB, PostgreSQL
+Tools & Technologies: MERN Stack, Git, RESTful APIs, TypeScript
+🌟 What I’ve Worked On:
+Developed projects like a Contact Management System, Basic Banking Website, and a Donation Website
+Interned in web development and design, gaining real-world experience with frontend technologies and creating responsive, user-friendly interfaces
+Currently exploring backend development and building efficient, scalable APIs
+🎯 Highlights:
+Solved over 200 problems on Leetcode
+Achieved a top 3000 rank in Codevita Season 11 (2024)
+Certified in MERN Stack Development, Data Structures & Algorithms in C++, and Python Programming
+💡 What Drives Me:
+I love learning new technologies and improving my skills, whether by tackling challenges in data structures, designing robust backend systems, or building mobile applications with Flutter. My goal is to create meaningful, high-quality software that makes a difference.
+
+📫 Connect With Me:
+Feel free to reach out to me for collaboration, discussing new ideas, or just to chat about tech!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rishabh-raj-a28118220) 
