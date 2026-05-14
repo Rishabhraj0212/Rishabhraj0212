@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Rishabh Raj Gupta
+👋 Hello! I'm Rishabh Raj 
 
 I'm a Software Developer specializing in Flutter and Backend Development with hands-on experience building scalable, secure, and high-performance mobile applications. I have worked extensively with Flutter, Node.js, PostgreSQL, and RESTful APIs while following clean architecture and Agile development practices.
 
