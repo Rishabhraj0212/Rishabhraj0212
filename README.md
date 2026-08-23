@@ -1,142 +1,263 @@
-# 💫 About Me:
-👋 Hello! I'm Rishabh Raj 
+# 👋 Hi, I'm Rishabh Raj Gupta
 
-I'm a Software Developer specializing in Flutter and Backend Development with hands-on experience building scalable, secure, and high-performance mobile applications. I have worked extensively with Flutter, Node.js, PostgreSQL, and RESTful APIs while following clean architecture and Agile development practices.
+### Flutter Developer | Full-Stack Engineer | Mobile & Web Applications
 
-Currently working as a Software Developer, I focus on developing real-world enterprise applications with features like offline support, file uploads, push notifications, security implementation, and backend integration.
+I'm a **Software Developer** focused on building secure, scalable and high-performance applications using **Flutter, Node.js, PostgreSQL and React.js**.
 
-🚀 Technical Skills:
+I have hands-on experience developing enterprise applications involving **offline-first architecture, REST APIs, real-time notifications, file management, application security, maps, role-based workflows and cloud deployment**.
 
-### 💻 Languages
-C++, JavaScript, Python, Dart, HTML, CSS
-
-### ⚙️ Frameworks & Technologies
-Flutter, Node.js, Express.js, React.js, REST APIs, TypeScript
-
-### 🗄️ Databases
-PostgreSQL, MongoDB, SQLite
-
-### 🛠️ Tools & Platforms
-Git, Azure, Firebase, MERN Stack, Agile Development
-
-### 🔐 Security & Optimization
-SSL Pinning, Root/Emulator Detection, App Signature Verification, Offline Caching, Performance Optimization
+Currently working on enterprise software involving **mobile applications, web platforms, backend services and operational management systems**.
 
 ---
 
-# 🌟 Work Experience:
+## 🚀 What I Do
 
-## 💼 Software Developer — BNB Cognira
-📅 Jan 2026 – Present
-
-- Developing enterprise Flutter applications with Node.js backend integration
-- Working with BLoC state management and offline-first architecture using SQLite
-- Following Agile methodology and Git-based version control
-- Building scalable and maintainable mobile solutions
-
-## 💼 Software Developer — Sarabhai Information Technology
-📅 Nov 2024 – Dec 2025
-
-- Developed Android applications using Flutter
-- Built and integrated RESTful APIs
-- Implemented Firebase Messaging and multi-file upload systems
-- Worked on SSL pinning, root/debug detection, and authentication security
-- Optimized SQLite database performance and caching
-- Worked with Azure cloud deployment and CI/CD setup
+* 📱 Build production-grade **Flutter applications**
+* ⚙️ Develop backend services using **Node.js & Express.js**
+* 🗄️ Design and work with **PostgreSQL, MongoDB & SQLite**
+* 🔐 Implement application security and authentication
+* 📡 Build offline-first applications with local data synchronization
+* 🗺️ Develop map-based monitoring and field-operation solutions
+* 📦 Build equipment, inventory and operational management systems
+* 🌐 Develop full-stack web applications using **React.js + Node.js**
+* ☁️ Work with **Azure, Firebase and CI/CD**
+* 🧩 Build modular applications using **BLoC and clean architecture principles**
 
 ---
 
-# 🚀 Projects:
+# 💻 Tech Stack
 
-## 📱 Incident Reporting & Monitoring App
-A secure enterprise incident management application with:
-- Real-time notifications
-- Map-based incident tracking
-- Multi-file upload support
-- Incident filtering and monitoring
-- SSL pinning & app security implementation
-- Offline support using SQLite
+### Mobile Development
 
-### Tech Stack:
-Flutter, Node.js, PostgreSQL, Firebase, SQLite
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+
+**Flutter · Dart · BLoC · Provider · SQLite · Offline-First · REST APIs**
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+**Node.js · Express.js · REST APIs · Authentication · API Integration**
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+**React.js · JavaScript · HTML · CSS · Responsive UI**
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+
+**PostgreSQL · MongoDB · SQLite**
+
+### Cloud & Tools
+
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+**Azure · Firebase · Git · GitHub · CI/CD · Agile**
+
+### 🔐 Security
+
+* SSL Pinning
+* Root Detection
+* Emulator Detection
+* App Signature Verification
+* Token-Based Authentication
+* Secure Local Storage
+* Offline Data Protection
+* API Security
+
+---
+
+# 💼 Professional Experience
+
+## Software Developer — BNB Cognira
+
+**Jan 2026 – Present**
+
+* Developing enterprise Flutter and Node.js applications.
+* Building modular Flutter features using **BLoC architecture**.
+* Working with **PostgreSQL, SQLite and REST APIs**.
+* Implementing offline-first workflows and local data synchronization.
+* Developing enterprise web and mobile management modules.
+* Working on **Company, User, Site, Supervisor and Equipment management**.
+* Building equipment issue, assignment and return workflows.
+* Working on **site-wise equipment management and tracking**.
+* Developing role-based workflows and operational monitoring.
+* Working with Agile development and Git-based workflows.
+
+### GTMS — Guard & Equipment Management System
+
+Current work includes:
+
+* 👮 Guard Management
+* 🏢 Company Management
+* 📍 Site Management
+* 🛠️ Equipment Management
+* 🔄 Equipment Issue & Return
+* 📦 Site-wise Equipment Assignment
+* 📅 Guard Roster
+* 📝 Audit & Activity Logs
+* 🚨 Escalation & Reminder Workflows
+* 📡 Live Feed Architecture
+* 📍 BLE Beacon Checkpoint Concept
+* 👁️ Guard Liveness Verification
+* 🔐 Role-Based Access Control
+* 🌐 Web + Mobile Integration
+
+---
+
+## Software Developer — Sarabhai Information Technology
+
+**Nov 2024 – Dec 2025**
+
+* Developed Flutter applications for enterprise clients.
+* Integrated Flutter applications with RESTful APIs.
+* Developed Node.js backend APIs with PostgreSQL.
+* Implemented Firebase Cloud Messaging.
+* Built multi-file upload functionality.
+* Worked with SQLite and local caching.
+* Implemented SSL pinning and authentication security.
+* Worked with root and emulator detection.
+* Optimized application performance.
+* Worked with Azure deployment and CI/CD.
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ Incident Reporting & Monitoring Application
+
+Enterprise application for incident reporting, monitoring and field operations.
+
+### Key Features
+
+* Real-time Firebase notifications
+* Interactive map-based monitoring
+* Minor / Major / Critical incident classification
+* Incident filtering
+* Multi-file upload
+* Offline support
+* SQLite local storage
+* Email sharing
+* SSL pinning
+* Signature verification
+* Secure authentication
+
+**Tech:** Flutter · Node.js · PostgreSQL · Firebase · SQLite · REST APIs
+
+---
+
+## 📈 Trading Application
+
+A simulated trading application built with Flutter around a single mock market-price feed.
+
+### Key Features
+
+* Multiple watchlists
+* Live market-data overview
+* Buy / Sell order ticket
+* Holdings management
+* Live P&L tracking
+* Shared mock price feed
+* Responsive mobile and desktop UI
+
+**Tech:** Flutter · Dart
 
 ---
 
 ## 📦 Inventory Management System
-Developed a full-stack inventory management platform with CRUD operations for products and stock management.
 
-### Tech Stack:
-MongoDB, Express.js, React.js, Node.js
+Full-stack inventory management platform built using the MERN stack.
 
----
+### Key Features
 
-## 🏦 Basic Banking Website
-Created a dynamic banking system with customer management and money transfer functionality.
+* Product management
+* Stock management
+* CRUD operations
+* Authentication
+* Role-based access
+* Responsive React UI
+* REST API integration
 
-### Features:
-- Customer profiles
-- Fund transfer flow
-- Transaction updates
-- Simple and responsive UI
-
----
-
-# 🎯 Achievements:
-
-🏆 Solved 200+ problems on LeetCode
-
-🏆 Secured Rank 2740 in Tata CodeVita Season 11 (2024)
-
-🏆 Microsoft Certified: Azure Fundamentals (AZ-900)
-
-🏆 Certified in MERN Stack Development, DSA in C++, and Python Programming
+**Tech:** MongoDB · Express.js · React.js · Node.js
 
 ---
 
-# 💡 What Drives Me:
+## 🏦 Banking Management Website
 
-I enjoy solving real-world problems through software development and continuously improving my skills in mobile app development, backend engineering, cloud technologies, and application security.
+Banking workflow simulation platform with customer and transaction management.
 
-My goal is to build scalable, secure, and impactful software solutions that deliver excellent user experiences.
+### Key Features
+
+* Customer management
+* Fund transfer
+* Transaction history
+* Authentication
+* Session management
+* Customer/Admin roles
+* Responsive UI
+
+**Tech:** Node.js · Express.js · React.js · PostgreSQL
 
 ---
 
-# 🌐 Connect With Me:
+# 🏆 Achievements
 
-📧 Email: rishabhraj021official@gmail.com
+* 🥇 **TCS CodeVita Season 11** — Rank **2740**
+* 💻 **200+ LeetCode Problems Solved**
+* ☁️ **Microsoft Certified: Azure Fundamentals — AZ-900**
+* 📚 MERN Stack Development Certification
+* 📚 DSA in C++ Certification
+* 📚 Python Programming Certification
 
-💼 LinkedIn:
+---
+
+# 🎓 Education
+
+### B.Tech — Information Technology
+
+**Maharaja Agrasen Institute of Technology, Delhi**
+
+**2020 – 2024 | CGPA: 8.13 / 10**
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Rishabhraj0212\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rishabhraj0212\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhraj0212\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** [rishabhraj021official@gmail.com](mailto:rishabhraj021official@gmail.com)
+
+💼 **LinkedIn:**
 https://linkedin.com/in/rishabh-raj-a28118220
 
-💻 GitHub:
+💻 **GitHub:**
 https://github.com/Rishabhraj0212
 
 ---
 
-# 💻 Tech Stack:
+### ⭐ Thanks for visiting my profile!
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Rishabhraj0212&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rishabhraj0212&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhraj0212&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Rishabhraj0212&icon=0&color=0)](https://visitcount.itsvg.in)
+I'm interested in **Flutter, Full-Stack Development, Backend Engineering, Cloud, DevOps, System Design and Application Security**.
